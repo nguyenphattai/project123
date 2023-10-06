@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "name":"Samsung Split AC Inverter AR18BX4ZAWK",
+        "desc":"100% Copper Condenser with Durafin Ultra cooling",
+        "madein":"India",
+        "img":"/images/AR18BX4ZAWK.png",
+        "file":"/download/product1.pdf",
+        "price":"22,999",
+        "year":"2022",
+        "top":1,
+        "brands":
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ,
+        "categories": 
+            {
+                "id":1,
+                "name": "Split ac"
+            }
+        ,
+        "details":{
+                "d1":"No Cost EMI starts from ₹ 3499.33/ month."
+            ,
+                "d2":"WindFree™ Cooling with 23,000 mircoholes"
+        }
+    },
+    {
+        "id":2,
+        "name":"Samsung WindFree™ Split AC AR18BY3APWK, 5.00kW",
+        "desc":"4 way Swing, 100% copper condenser with Durafin Ultra Coating",
+        "madein":"India",
+        "img":"/images/AR18BY3APWK.png",
+        "file":"/download/product2.pdf",
+        "price":"23,999",
+        "year":"2022",
+        "top":0,
+        "brands":
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ,
+        "categories":
+            {
+                "id":1,
+                "name": "Split ac"
+            }
+        ,
+        "details":{
+                "d1":"No Cost EMI starts from ₹ 3499.33/ month."
+            ,
+                "d2":"WindFree™ Cooling with 23,000 mircoholes"
+        }
+    },
+    {
+        "id":3,
+        "name":"Daikin Cassette AC FCC85AV1V Ion-Plasma",
+        "desc":"Modern design, the mask size of the power is the same, easy installation in any area.",
+        "madein":"Thaidlan",
+        "img":"/images/daikin24.jpg",
+        "file":"/download/product3.pdf",
+        "price":"24,999",
+        "year":"2022",
+        "top":1,
+        "brands":
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ,
+        "categories": 
+            {
+                "id":2,
+                "name": "Window AC"
+            }
+        ,
+        "details":{
+                "d1":"No Cost EMI starts from ₹ 3499.33/ month."
+            ,
+                "d2":"WindFree™ Cooling with 23,000 mircoholes"
+        }
+    },
+    {
+        "id":4,
+        "name":"Samsung AC140KN4DEH Cassette AC 14.0kW",
+        "desc":"Modern design, the mask size of the power is the same, easy installation in any area.",
+        "madein":"India",
+        "img":"/images/samsung19.png",
+        "file":"/download/product3.pdf",
+        "price":"25,999",
+        "year":"2022",
+        "top":1,
+        "brands":
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ,
+        "categories": 
+            {
+                "id":3,
+                "name": "Cassette AC"
+            }
+        ,
+        "details":{
+                "d1":"360 Cassette Inverter AC with Heat cool Option."
+            ,
+                "d2":"Even Cooling"
+        }
+    }
+]

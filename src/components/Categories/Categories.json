@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name":"Split AC"
+    },
+    {
+        "id":2,
+        "name":"Window AC"
+    },
+    {
+        "id":3,
+        "name":"Cassette AC"
+    }
+]
